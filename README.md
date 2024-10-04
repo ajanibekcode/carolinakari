@@ -27,4 +27,5 @@ Functions include {"Next Puzzle", "Previous Puzzle", "Reset Puzzle", "Random Puz
 4. Random Puzzle gives the user the option to select a random puzzle to work on.
 
 When user completes puzzle, meaning all cells numbered from 0 to 4 are turned green and no light bulbs turn into tarheels, the user will receive a "You Win! Game Complete" message.
-  
+
+Unfortunately, the code cannot be shared at this current moment due to honor court per university standards.
